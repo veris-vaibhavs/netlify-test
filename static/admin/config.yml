@@ -8,8 +8,8 @@ media_folder: "static/img" # Media files will be stored in the repo under static
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-- name: Docs
-  label: "Docs"
+- name: docs
+  label: "docs"
   folder: docs
   identifier_field: title
   extension: md

@@ -8,9 +8,9 @@ media_folder: "static/img" # Media files will be stored in the repo under static
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-- name: blog
-  label: "blog"
-  folder: blog
+- name: Docs
+  label: "Docs"
+  folder: docs/
   identifier_field: title
   extension: md
   widget: "list"

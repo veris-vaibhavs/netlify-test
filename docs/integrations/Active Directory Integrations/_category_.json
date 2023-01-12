@@ -1,0 +1,8 @@
+{
+    "label": "Active Directory Integrations",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Employee Integrations using Active Directory, Based on PUSH and PULL csv files for distinct methods. The following documentation contains all the type of Active directory integration we support."
+    }
+  }

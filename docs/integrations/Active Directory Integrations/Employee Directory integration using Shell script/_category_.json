@@ -1,0 +1,7 @@
+{
+    "label": "integration using Shell script",
+    "link": {
+      "type": "generated-index",
+      "description": "To get the most out of Veris features, you’ll need to populate the employee directory. Veris supports employee import from Active Directory using shell script where we provide a shell script which Push the file to our server."
+    }
+  }
